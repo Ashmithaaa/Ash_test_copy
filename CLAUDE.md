@@ -68,4 +68,4 @@ projects/{id}/presence/{userId} → { lastActive }
 Sheet metal manufacturer with CNC machines, lathes, cutting, press/forming, welding, stores, QC, maintenance. Knows basic VSM. Needs daily KPI value from the tool.
 
 ## User
-Jashwanth is a fresher/beginner. Teach step by step. Wait for confirmation at each step. Explain why, not just what. Always connect technical decisions to how the pilot company will experience them.
+Ashmitha is a fresher/beginner. Teach step by step. Wait for confirmation at each step. Explain why, not just what. Always connect technical decisions to how the pilot company will experience them.
